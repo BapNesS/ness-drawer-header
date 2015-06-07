@@ -1,0 +1,26 @@
+{
+    "name": "ness-drawer-header",
+    "version": "0.0.1",
+    "homepage": "https://github.com/BapNesS/ness-drawer-header",
+    "authors": [
+        "Baptiste Carlier <contact@baptistecarlier.com>"
+    ],
+    "description": "Polymer element for drawer header",
+    "keywords": [
+        "polymer"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "main": "ness-drawer-header.html",
+    "dependencies": {
+        "polymer": "Polymer/polymer#^1.0.2",
+        "iron-icon": "PolymerElements/iron-icon#~1.0.0"
+    }
+}
